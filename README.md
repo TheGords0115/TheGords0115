@@ -13,6 +13,13 @@ Coloco em produção agentes de IA, e-commerces, integrações e dashboards para
 - **Integrações** com Mercado Livre, Bling e Melhor Envio
 - **Infraestrutura** com Linux e Docker
 
+## Sites no ar
+
+- [gogamefestival.com.br](https://gogamefestival.com.br): site do Go Game Festival, tema WordPress próprio
+- [photos.gogamefestival.com.br](https://photos.gogamefestival.com.br): loja de fotos do festival
+- [grupopolosul.com.br](https://grupopolosul.com.br): loja Shopify com tema próprio e checkout com 3D Secure
+- [maclins.com.br](https://maclins.com.br): loja Shopify
+
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
