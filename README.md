@@ -13,11 +13,13 @@ Coloco em produção agentes de IA, e-commerces, integrações e dashboards para
 - **Integrações** com Mercado Livre, Bling e Melhor Envio
 - **Infraestrutura** com Linux e Docker
 
+**[Veja o portfólio completo, com os cases dos sites](https://github.com/TheGords0115/portfolio)**
+
 ## Projetos com código aberto
 
 - **[whatsapp-sdr-agent](https://github.com/TheGords0115/whatsapp-sdr-agent)**: agente SDR com IA (Claude) para WhatsApp. Qualifica leads, agenda visitas e passa a conversa para um humano. TypeScript, Fastify, Zod, Vitest.
 - **[traffic-dashboard](https://github.com/TheGords0115/traffic-dashboard)**: dashboard de tráfego pago e vendas com indicadores, gráficos e tabela de campanhas. React, TypeScript, Recharts. [Ver demo](https://thegords0115.github.io/traffic-dashboard/)
-
+- **[btu-calculator](https://github.com/TheGords0115/btu-calculator)**: calculadora de BTUs para ar-condicionado como Web Component, sem dependências. TypeScript. [Ver demo](https://thegords0115.github.io/btu-calculator/)
 - **[gogame-festival-theme](https://github.com/TheGords0115/gogame-festival-theme)**: tema WordPress próprio do Go Game Festival, sem page builder. PHP, JavaScript, CSS. [Site no ar](https://gogamefestival.com.br)
 
 ## Sites no ar
