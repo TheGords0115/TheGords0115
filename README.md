@@ -29,4 +29,4 @@ Coloco em produção agentes de IA, e-commerces, integrações e dashboards para
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/gustavo-camargo-471887290/) · gustavolucenaoliveira@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gustavo-camargo-dev/) · gustavolucenaoliveira@gmail.com
