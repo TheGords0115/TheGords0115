@@ -18,6 +18,8 @@ Coloco em produção agentes de IA, e-commerces, integrações e dashboards para
 - **[whatsapp-sdr-agent](https://github.com/TheGords0115/whatsapp-sdr-agent)**: agente SDR com IA (Claude) para WhatsApp. Qualifica leads, agenda visitas e passa a conversa para um humano. TypeScript, Fastify, Zod, Vitest.
 - **[traffic-dashboard](https://github.com/TheGords0115/traffic-dashboard)**: dashboard de tráfego pago e vendas com indicadores, gráficos e tabela de campanhas. React, TypeScript, Recharts. [Ver demo](https://thegords0115.github.io/traffic-dashboard/)
 
+- **[gogame-festival-theme](https://github.com/TheGords0115/gogame-festival-theme)**: tema WordPress próprio do Go Game Festival, sem page builder. PHP, JavaScript, CSS. [Site no ar](https://gogamefestival.com.br)
+
 ## Sites no ar
 
 - [gogamefestival.com.br](https://gogamefestival.com.br): site do Go Game Festival, tema WordPress próprio
